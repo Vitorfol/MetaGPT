@@ -22,7 +22,7 @@ cffi==2.0.0
 channels==4.0.0
 chardet==5.2.0
 charset-normalizer==3.4.4
-click==8.0.4
+click==8.1.7
 cloudpickle==3.1.2
 comm==0.2.3
 cryptography==43.0.3
@@ -99,7 +99,6 @@ matplotlib-inline==0.2.1
 mccabe==0.7.0
 mdurl==0.1.2
 meilisearch==0.21.0
--e git+https://github.com/FoundationAgents/MetaGPT.git@bae8b0adf1fc470150e327f2b4b78364bcf4093f#egg=metagpt
 more-itertools==10.8.0
 motor==3.7.1
 multidict==6.7.0
